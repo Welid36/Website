@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>welid resturent</title>
+    <title>Food Lover</title>
     <!-- Style Link -->
     <link rel="stylesheet" href="./style.css">
     <!-- Fontawsome -->
@@ -32,8 +32,8 @@
             </nav>
         </div>
         <div class="content">
-            <h1>مرحبا بكم في مطعم <span class="primary-text"> Food Lover </span> Restaurant</h1>
-            <p>اجمل لأطعمة المحلية والدولية</p>
+            <h1>Welcome To <span class="primary-text"> Food Lover </span> Restaurant</h1>
+            <p>Here you can find Most delicacies food in the world</p>
             <a href="#contact" class="btn btn-primary">Book a Table</a>
         </div>
     </header>
@@ -44,7 +44,7 @@
             <div class="container">
                 <div class="title">
                     <h2>The Food Lover history</h2>
-                    <p>خبرة سنين واخيرا وبفضل الله</p>
+                    <p>More than 25+ years of experience</p>
                 </div>
                 <div class="about-content">
                     <div>
@@ -255,8 +255,7 @@
                             <p><i class="fa-regular fa-envelope"></i> support@foodlover.com</p>
                         </div>
                         <div>
-	                            <h3>اوقات العمل 
-	                            </h3>
+                            <h3>WORKING HOURS</h3>
                             <p>8:00 am to 11:00 pm on Weekdays</p>
                             <p>11:00 am to 1:00 Am on Weekends</p>
                         </div>
